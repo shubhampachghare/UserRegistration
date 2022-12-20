@@ -11,8 +11,11 @@ namespace UserRegistration
             Console.WriteLine("welcome to the user registration ");
             Console.WriteLine("Enter the first name = ");
             string firstName = Console.ReadLine();
+            Console.WriteLine("Enter the last name = ");
+            string lastName = Console.ReadLine();
             UserRegistrationRegex userRegistrationRegex = new UserRegistrationRegex();
             Console.WriteLine(userRegistrationRegex.validateFirstName(firstName));
+            Console.WriteLine(userRegistrationRegex.validateLastName(lastName));
             Console.ReadKey();
         }
     }
