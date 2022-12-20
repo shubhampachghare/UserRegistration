@@ -1,0 +1,15 @@
+C:\RFP-231-Assg\UserRegistration\bin\Debug\net6.0\UserRegistration.exe
+C:\RFP-231-Assg\UserRegistration\bin\Debug\net6.0\UserRegistration.deps.json
+C:\RFP-231-Assg\UserRegistration\bin\Debug\net6.0\UserRegistration.runtimeconfig.json
+C:\RFP-231-Assg\UserRegistration\bin\Debug\net6.0\UserRegistration.dll
+C:\RFP-231-Assg\UserRegistration\bin\Debug\net6.0\UserRegistration.pdb
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.AssemblyReference.cache
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfoInputs.cache
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfo.cs
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.CoreCompileInputs.cache
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.dll
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\refint\UserRegistration.dll
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
+C:\RFP-231-Assg\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
